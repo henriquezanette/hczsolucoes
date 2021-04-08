@@ -26,3 +26,12 @@
 
 ## ⚙️ Configuração
 <p> 1 - Para instalar as dependências </p>
+
+> npm install
+
+<p> 2 - Para rodar o projeto </p>
+
+> cd hczsl
+
+> npm start
+
